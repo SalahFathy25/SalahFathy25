@@ -8,6 +8,10 @@
 
 - 🌱 I’m currently learning **Flutter**
 
+- 👨‍💻 I’m currently learning Computer Science
+
+- 👨‍💻 I’m Semi-junior computer Science at SCU
+
 - 📫 How to reach me **sf116170@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
