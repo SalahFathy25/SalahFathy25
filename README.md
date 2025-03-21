@@ -1,4 +1,4 @@
-<img align="center" alt="Computer Science Student" src="https://github.com/DenverCoder1/readme-typing-svg">
+<img align="center" alt="Computer Science Student" src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=955&vCenter=true&width=800&lines=Welcome+to+My+GitHub!+;I'm+Salah+Fathy%2C+a+Junior+Flutter+Developer.;Computer+Science+Student)](https://git.io/typing-svg)">
 
 <h1 align="center">Hi 👋, I'm Salah Fathy</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
