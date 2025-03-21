@@ -1,4 +1,4 @@
-<img align="center" alt="Computer Science Student" src="[https://github.com/Slama305/slama305/blob/main/5c3a5a33-5c96-46e0-b732-beeeb1b7c886.gif](https://github.com/DenverCoder1/readme-typing-svg)">
+<img align="center" alt="Computer Science Student" src="https://github.com/DenverCoder1/readme-typing-svg">
 
 <h1 align="center">Hi 👋, I'm Salah Fathy</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
